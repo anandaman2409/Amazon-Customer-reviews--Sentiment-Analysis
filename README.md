@@ -6,6 +6,7 @@ Problem Statement :
 1. Go to amazon.in and scrape customer reviews of 100 mobile phones
 2. Develop sentiment analysis model using the provided data set
 3. Using developed model perform sentiment analysis of scraped customer reviews.
+4. stanfordSentimentTreebank folder contains data set to be used to train the model
 
 
 Files :
