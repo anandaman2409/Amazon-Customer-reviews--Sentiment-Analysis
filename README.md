@@ -11,8 +11,8 @@ Problem Statement :
 
 Files :
 
-Code to scrape customer reviews : Reviews_Scrape.ipynb
-EDA for creating model : Sentiment_Analysis_EDA.ipynb
-Amazon review sentiment score result : Review_Sentiment_Score.csv
-Data vizualization of mobile review sentiment score result : Data_Visual_Sentiment_Analysis_Result.ipynb
+1. Code to scrape customer reviews : Reviews_Scrape.ipynb
+2. EDA for creating model : Sentiment_Analysis_EDA.ipynb
+3. Amazon review sentiment score result : Review_Sentiment_Score.csv
+4. Data vizualization of mobile review sentiment score result : Data_Visual_Sentiment_Analysis_Result.ipynb
 
